@@ -1,6 +1,11 @@
 <!doctype html>
 <html lang="en">
   <head>
+      <script src="https://t1.kakaocdn.net/kakao_js_sdk/2.7.6/kakao.min.js"
+              integrity="sha34-WAtVcQYcmTO/N+C1N+1m6Gp8qxh+3NlnP7X1U7qP6P5dQY/MsRBNTh+e1ahJrkEm"
+              crossorigin="anonymous">
+
+      </script>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -9,13 +14,17 @@
     <meta property="og:type" content="website" />
     <meta
       property="og:title"
-      content="<%= GROOM_FULLNAME %> ❤️ <%= BRIDE_FULLNAME %> 결혼합니다."
+      content="<%= BRIDE_FULLNAME %> ❤️ <%= GROOM_FULLNAME %> 결혼합니다."
     />
-    <meta property="og:image" content="/preview_image.png" />
-    <meta property="og:url" content="%BASE_URL%/" />
+    <meta property="og:image" content="https://shy251227.github.io/kakaotest/preview_img_test.png" />
+    <meta property="og:url" content="https://shy251227.github.io/kakaotest/" />
     <meta property="og:description" content="<%= DESCRIPTION %>" />
     <link rel="preload" href="/MapoGoldenPierA.woff" as="font" crossorigin />
     <link rel="preload" href="/AlluraRegular.woff" as="font" crossorigin />
+      <link rel="preload" href="/HakgyoansimMulgyeolOTFB.otf" as="font" crossorigin />
+      <link rel="preload" href="/Cafe24Gowoonbam.woff" as="font" crossorigin />
+      <link rel="preload" href="/Hakgyoansim_BandalOTFL.otf" as="font" crossorigin />
+      <link rel="preload" href="/Hakgyoansim_SiganpyoOTFR.otf" as="font" crossorigin />
     <link rel="manifest" href="/manifest.json" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="stylesheet" href="/font.css" />
@@ -23,6 +32,17 @@
   </head>
   <body>
     <div id="root"></div>
+
+    <script>
+      (function(){
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect != location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+
     <script type="module" src="/src/index.tsx"></script>
   </body>
 </html>
