@@ -25,7 +25,7 @@ export const NMAP_PLACE_ID = 1946480978
 export const KMAP_PLACE_ID = 1099072690
 
 
-export const BRIDE_FULLNAME = "정HY"
+export const BRIDE_FULLNAME = "정00"
 export const BRIDE_FIRSTNAME = "HY"
 export const BRIDE_TITLE = "딸"
 export const BRIDE_FATHER = "JKM"
@@ -51,7 +51,7 @@ export const BRIDE_INFO = [
   },
 ]
 
-export const GROOM_FULLNAME = "차SH"
+export const GROOM_FULLNAME = "차00"
 export const GROOM_FIRSTNAME = "SH"
 export const GROOM_TITLE = "아들"
 export const GROOM_FATHER = "CHJ"
