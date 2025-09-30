@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94a1521a-a31a-4c6d-891d-9ae6d2dcfc4a" name="변경" comment="테스트용 수정" />
+    <list default="true" id="3c15c3b9-36b4-4959-822e-e3d013486a62" name="변경" comment="사진 변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,129 +21,217 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/shy251227/kakaotest.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/shy251227/wedding-invitation.git&quot;,
     &quot;accountId&quot;: &quot;5f9b6a38-ff64-409b-bc51-7d6cede69355&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="33NaG9PIkexPKEC1Igo18xcRdux" />
+  <component name="ProjectId" id="33EinAuj60k9FzuGtf2xVOXeNvq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="94a1521a-a31a-4c6d-891d-9ae6d2dcfc4a" name="변경" comment="" />
-      <created>1759159885121</created>
+      <changelist id="3c15c3b9-36b4-4959-822e-e3d013486a62" name="변경" comment="" />
+      <created>1758888797076</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1759159885121</updated>
+      <updated>1758888797076</updated>
     </task>
-    <task id="LOCAL-00001" summary="테스트용 수정">
+    <task id="LOCAL-00001" summary="bgm 수정">
       <option name="closed" value="true" />
-      <created>1759160154943</created>
+      <created>1758891371955</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1759160154943</updated>
+      <updated>1758891371955</updated>
     </task>
-    <task id="LOCAL-00002" summary="테스트용 수정">
+    <task id="LOCAL-00002" summary="bgm 수정2">
       <option name="closed" value="true" />
-      <created>1759160762225</created>
+      <created>1758891663971</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1759160762225</updated>
+      <updated>1758891663971</updated>
     </task>
-    <task id="LOCAL-00003" summary="테스트용 수정">
+    <task id="LOCAL-00003" summary="bgm 수정3">
       <option name="closed" value="true" />
-      <created>1759161132530</created>
+      <created>1758900328421</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1759161132530</updated>
+      <updated>1758900328421</updated>
     </task>
-    <task id="LOCAL-00004" summary="테스트용 수정">
+    <task id="LOCAL-00004" summary="bgm 수정4">
       <option name="closed" value="true" />
-      <created>1759161424260</created>
+      <created>1758900675384</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1759161424260</updated>
+      <updated>1758900675384</updated>
     </task>
-    <task id="LOCAL-00005" summary="테스트용 수정">
+    <task id="LOCAL-00005" summary="bgm 수정5(bgm 용량 줄임)">
       <option name="closed" value="true" />
-      <created>1759161625444</created>
+      <created>1758901430625</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1759161625444</updated>
+      <updated>1758901430625</updated>
     </task>
-    <task id="LOCAL-00006" summary="테스트용 수정">
+    <task id="LOCAL-00006" summary="bgm 수정5(bgm 용량 줄임)">
       <option name="closed" value="true" />
-      <created>1759193846994</created>
+      <created>1758901528370</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1759193846994</updated>
+      <updated>1758901528370</updated>
     </task>
-    <task id="LOCAL-00007" summary="테스트용 수정">
+    <task id="LOCAL-00007" summary="bgm 수정6">
       <option name="closed" value="true" />
-      <created>1759194086735</created>
+      <created>1758902862502</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1759194086735</updated>
+      <updated>1758902862502</updated>
     </task>
-    <task id="LOCAL-00008" summary="테스트용 수정">
+    <task id="LOCAL-00008" summary="bgm 수정7">
       <option name="closed" value="true" />
-      <created>1759194446263</created>
+      <created>1758903381314</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1759194446263</updated>
+      <updated>1758903381314</updated>
     </task>
-    <task id="LOCAL-00009" summary="테스트용 수정">
+    <task id="LOCAL-00009" summary="bgm 수정7">
       <option name="closed" value="true" />
-      <created>1759194576183</created>
+      <created>1758903738676</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1759194576183</updated>
+      <updated>1758903738676</updated>
     </task>
-    <task id="LOCAL-00010" summary="테스트용 수정">
+    <task id="LOCAL-00010" summary="bgm 수정8">
       <option name="closed" value="true" />
-      <created>1759194859240</created>
+      <created>1758904233055</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1759194859240</updated>
+      <updated>1758904233055</updated>
     </task>
-    <task id="LOCAL-00011" summary="테스트용 수정">
+    <task id="LOCAL-00011" summary="bgm 추가 원복">
       <option name="closed" value="true" />
-      <created>1759194930126</created>
+      <created>1758905804585</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1759194930126</updated>
+      <updated>1758905804585</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bgm 추가 1">
+      <option name="closed" value="true" />
+      <created>1758906076603</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1758906076603</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bgm 추가 다시 원복">
+      <option name="closed" value="true" />
+      <created>1758907506827</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1758907506827</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bgm 추가 원점">
+      <option name="closed" value="true" />
+      <created>1758956380114</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1758956380114</updated>
+    </task>
+    <task id="LOCAL-00015" summary="bgm 추가 원점&#10;인트로 화면 추가(추후에 bgm추가 예정)">
+      <option name="closed" value="true" />
+      <created>1758962709624</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1758962709624</updated>
+    </task>
+    <task id="LOCAL-00016" summary="폰트 추가 및 멘트 수정">
+      <option name="closed" value="true" />
+      <created>1758985644665</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1758985644665</updated>
+    </task>
+    <task id="LOCAL-00017" summary="멘트 수정">
+      <option name="closed" value="true" />
+      <created>1758985895887</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1758985895887</updated>
+    </task>
+    <task id="LOCAL-00018" summary="폰트 불러오기">
+      <option name="closed" value="true" />
+      <created>1758986454849</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1758986454849</updated>
+    </task>
+    <task id="LOCAL-00019" summary="순서변경">
+      <option name="closed" value="true" />
+      <created>1759071905722</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1759071905722</updated>
+    </task>
+    <task id="LOCAL-00020" summary="사진 변경">
+      <option name="closed" value="true" />
+      <created>1759157407030</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1759157407030</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="테스트용 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="테스트용 수정" />
+    <MESSAGE value="bgm 수정" />
+    <MESSAGE value="bgm 수정2" />
+    <MESSAGE value="bgm 수정3" />
+    <MESSAGE value="bgm 수정4" />
+    <MESSAGE value="bgm 수정5(bgm 용량 줄임)" />
+    <MESSAGE value="bgm 수정6" />
+    <MESSAGE value="bgm 수정7" />
+    <MESSAGE value="bgm 수정8" />
+    <MESSAGE value="bgm 추가 원복" />
+    <MESSAGE value="bgm 추가 1" />
+    <MESSAGE value="bgm 추가 다시 원복" />
+    <MESSAGE value="bgm 추가 원점" />
+    <MESSAGE value="bgm 추가 원점&#10;인트로 화면 추가(추후에 bgm추가 예정)" />
+    <MESSAGE value="폰트 추가 및 멘트 수정" />
+    <MESSAGE value="멘트 수정" />
+    <MESSAGE value="폰트 불러오기" />
+    <MESSAGE value="순서변경" />
+    <MESSAGE value="사진 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="사진 변경" />
   </component>
 </project>
