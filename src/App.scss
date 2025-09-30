@@ -1,4 +1,3 @@
-@use "./component/intro";
 @use "./component/cover";
 @use "./component/invitation";
 @use "./component/button";
@@ -10,12 +9,6 @@
 @use "./component/guestbook";
 @use "./component/modal";
 @use "./component/shareButton";
-
-.background.blurred {
-  filter: blur(8px);
-  // 인트로 화면 아래에 있도록 하여 클릭 등을 방지
-  pointer-events: none;
-}
 
 :root {
   --theme-color: #ff8585;
@@ -29,7 +22,7 @@
   --white-color: #ffffff;
   --red-color: #ff0000;
 
-  font-family: "Cafe24";
+  font-family: "MapoGoldenPier";
   font-size: 20px;
   @media (max-width: 500px) {
     font-size: 4vw;
@@ -81,7 +74,7 @@ $colors: (
 }
 
 button {
-  font-family: "HDHyundai";
+  font-family: "MapoGoldenPier";
   font-size: 1rem;
   border: none;
   background-color: transparent;

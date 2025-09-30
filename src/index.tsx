@@ -1,16 +1,16 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
 import App from "./App"
-import { StoreProvider } from "./component/store"
 import { ModalProvider } from "./component/modal"
+import { StoreProvider } from "./component/store"
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement)
 root.render(
   <React.StrictMode>
-    <StoreProvider>
-      <ModalProvider>
+    <ModalProvider>
+      <StoreProvider>
         <App />
-      </ModalProvider>
-    </StoreProvider>
+      </StoreProvider>
+    </ModalProvider>
   </React.StrictMode>,
 )
