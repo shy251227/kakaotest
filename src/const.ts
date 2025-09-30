@@ -26,10 +26,10 @@ export const KMAP_PLACE_ID = 1099072690
 
 
 export const BRIDE_FULLNAME = "정00"
-export const BRIDE_FIRSTNAME = "HY"
+export const BRIDE_FIRSTNAME = "00"
 export const BRIDE_TITLE = "딸"
-export const BRIDE_FATHER = "JKM"
-export const BRIDE_MOTHER = "KCY"
+export const BRIDE_FATHER = "정00"
+export const BRIDE_MOTHER = "김00"
 export const BRIDE_INFO = [
   {
     relation: "신부",
@@ -52,10 +52,10 @@ export const BRIDE_INFO = [
 ]
 
 export const GROOM_FULLNAME = "차00"
-export const GROOM_FIRSTNAME = "SH"
+export const GROOM_FIRSTNAME = "00"
 export const GROOM_TITLE = "아들"
-export const GROOM_FATHER = "CHJ"
-export const GROOM_MOTHER = "NMH"
+export const GROOM_FATHER = "차00"
+export const GROOM_MOTHER = "남00"
 export const GROOM_INFO = [
   {
     relation: "신랑",
